@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   state out the process I went through in renewing mine.
   Instead of complaining about it like everyone I met during my processing period and have decided to briefly
   illustrate the process. Hope you understand every detail.  
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: '/RenewNigerianPassportUk'
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: mrabalogu_
 github_username:  mrabalogu
